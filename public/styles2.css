@@ -1,0 +1,38 @@
+body {
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:black;
+    }
+    section{
+    height:100%;
+    width:100%;
+      position:absolute ;  background:radial-gradient(#333,#000);
+      text-align:center;
+    }
+   
+ 
+ 
+    h2{
+        position:absolute ;
+        top:40%;
+        width:100%;
+        font-family: 'Courgette', cursive;
+        font-size:4em;
+       
+        transform:translate ;
+        color:#fff;
+        transform:translateY (-50%);
+    }
+    .the{
+       position: relative;
+       top:50%;
+       width:100%;
+    
+        
+
+    }
+    .thebt
+{
+    text-align: center;
+}
